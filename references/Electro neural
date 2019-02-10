@@ -1,0 +1,7 @@
+The ENVS provide a virtual perception of the three-dimensional proﬁle and colour of the surroundings throughelectrical pulses. 
+The ENVS system comprises of a stereocamera which can capture the image and calculate the dis-parity depth map indicating
+the distance to each point ofthe image. Special gloves with electrodes are used to de-liver the electrical pulses to the ﬁngers.
+TranscutaneousElectro-Neural Stimulation unit in the ENVS system sam-ples the depth value from the computer and converts theminto an 
+electro-neural pulse. Then these pulses are deliveredto the ﬁngers through electrodes in gloves. The intensity ofthe 
+pulse varies with distance sampled corresponding to thedepth map region. Colors of the surroundings is determinedfrom the pulse frequency.
+ENVS system enables a blind per-son to have a virtual experience by creating a mental mapof the 3D proﬁle of his/her surroundings.
